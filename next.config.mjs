@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: "export",
-  basePath: "/intercepting-routes",
-};
+const nextConfig = {};
 
 export default nextConfig;
