@@ -1,0 +1,30 @@
+.section {
+  padding: 20px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.photoList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.photoItem {
+  box-sizing: border-box;
+}
+
+.photoLink {
+  display: block;
+  text-align: center;
+}
